@@ -8,6 +8,8 @@ package `1_BruteForce`
 * - 약수가 두 개 뿐인 자연수
 */
 
+/** 내 능력으로 못 풀었음.
+ * 다음에 다시 돌아와서 해보자. */
 
 fun main() {
 //    val solution = 소수찾기()
